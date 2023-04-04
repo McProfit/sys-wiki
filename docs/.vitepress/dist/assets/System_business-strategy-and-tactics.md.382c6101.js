@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.5781fdd0.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Promotion/banner.md"}',r={};function o(n,s,c,i,_,p){return a(),e("div")}var m=t(r,[["render",o]]);export{f as __pageData,m as default};
